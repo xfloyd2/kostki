@@ -24,15 +24,15 @@
   }
   
   
-  .gallery {
+  /*#boxes {
     display: flex;
-    flex-direction: column;
-   /* flex-direction: row; */
+    flex-direction: row;
     max-width: 600px;
   }
   
-  .gallery li {
+  #boxes li {
     display: flex;
-    flex-direction: column;
-    /*max-width: 400px; */
+    flex-direction: row;
+    max-width: 400px; 
   }
+  
